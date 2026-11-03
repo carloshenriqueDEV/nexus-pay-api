@@ -1,0 +1,6 @@
+@NexusPay.Api_HostAddress = http://localhost:5177
+
+GET {{NexusPay.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
